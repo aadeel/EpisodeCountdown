@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autocomplete_array">
+        <item>The Walking Dead</item>
+        <item>Homeland</item>
+        <item>Arrow</item>
+        <item>The Big Bang Theory</item>
+        <item>Once Upon a Time (2011)</item>
+        <item>The Good Wife</item>
+        <item>Marvel\'s Agents of S.H.I.E.L.D.</item>
+        <item>The Blacklist</item>
+        <item>Doctor Who (2005)</item>
+        <item>Sons of Anarchy</item>
+        <item>Revenge</item>
+        <item>Downton Abbey</item>
+        <item>The Simpsons</item>
+        <item>Modern Family</item>
+        <item>Brooklyn Nine-Nine</item>
+        <item>Person of Interest</item>
+        <item>Castle (2009)</item>
+        <item>Suits</item>
+        <item>Elementary</item>
+        <item>American Horror Story</item>
+        <item>Constantine</item>
+        <item>The Flash (2014)</item>
+        <item>Grimm</item>
+        <item>Gotham</item>
+        <item>Supernatural</item>
+        <item>The 100</item>
+        <item>Breaking Bad</item>
+        <item>Under the Dome</item>
+        <item>The Vampire Diaries</item>
+        <item>Bones</item>
+        <item>How to Get Away With Murder</item>
+        <item>Friends</item>
+        <item>Boardwalk Empire</item>
+        <item>Orange Is the New Black</item>
+        <item>Last Week Tonight with John Oliver</item>
+        <item>Resurrection</item>
+        <item>Hawaii Five-0</item>
+        <item>Game of Thrones</item>
+        <item>How I Met Your Mother</item>
+        <item>New Girl</item>
+        <item>NCIS</item>
+        <item>Scandal (2012)</item>
+        <item>Grey\'s Anatomy</item>
+        <item>Sleepy Hollow</item>
+        <item>House of Cards (2013)</item>
+        <item>24</item>
+        <item>The Affair</item>
+        <item>Two and a Half Men</item>
+        <item>Criminal Minds</item>
+        <item>South Park</item>
+        <item>Family Guy</item>
+        <item>Madam Secretary</item>
+        <item>Fargo</item>
+        <item>The Originals</item>
+        <item>True Detective</item>
+        <item>House</item>
+        <item>Haven</item>
+        <item>Continuum</item>
+        <item>Z Nation</item>
+        <item>Shameless (US)</item>
+        <item>Hannibal</item>
+        <item>The Middle</item>
+        <item>True Blood</item>
+        <item>Lost</item>
+        <item>Saturday Night Live</item>
+        <item>Scorpion</item>
+        <item>White Collar</item>
+        <item>Vikings</item>
+        <item>The Leftovers</item>
+        <item>The Mentalist</item>
+        <item>CSI: Crime Scene Investigation</item>
+        <item>2 Broke Girls</item>
+        <item>Forever (2014)</item>
+        <item>Peaky Blinders</item>
+        <item>Stalker</item>
+        <item>Transporter</item>
+        <item>Pretty Little Liars</item>
+        <item>The Strain</item>
+        <item>Falling Skies</item>
+        <item>Ray Donovan</item>
+        <item>Parks and Recreation</item>
+        <item>The X Factor</item>
+        <item>The Office (US)</item>
+        <item>Scrubs</item>
+        <item>Californication</item>
+        <item>Stargate SG-1</item>
+        <item>Glee</item>
+        <item>Talking Dead</item>
+        <item>Chicago Fire</item>
+        <item>The Knick</item>
+        <item>The West Wing</item>
+        <item>Bob\'s Burgers</item>
+        <item>Gilmore Girls</item>
+        <item>The Americans (2013)</item>
+        <item>Justified</item>
+        <item>30 Rock</item>
+        <item>The Wire</item>
+        <item>The Legend of Korra</item>
+        <item>Seinfeld</item>
+        <item>Fringe</item>
+        <item>Prison Break</item>
+        <item>Warehouse 13</item>
+        <item>The League</item>
+        <item>The Killing (US)</item>
+        <item>Top Gear</item>
+        <item>Heroes</item>
+        <item>Star Wars Rebels</item>
+        <item>Unforgettable</item>
+        <item>Penny Dreadful</item>
+        <item>Community</item>
+        <item>The Flash</item>
+        <item>Blue Bloods</item>
+        <item>NCIS: Los Angeles</item>
+        <item>Smallville</item>
+        <item>The Bridge (2013)</item>
+        <item>Nashville</item>
+        <item>Mom</item>
+        <item>Dexter</item>
+        <item>QI</item>
+        <item>Crossing Lines</item>
+        <item>Chicago P.D.</item>
+        <item>That \'70s Show</item>
+        <item>Orphan Black</item>
+        <item>Star Trek: The Next Generation</item>
+        <item>Revolution</item>
+        <item>The Sopranos</item>
+        <item>American Dad!</item>
+        <item>Comic Book Men</item>
+        <item>Battlestar Galactica (2003)</item>
+        <item>A to Z</item>
+        <item>Masters of Sex</item>
+        <item>Survivor</item>
+        <item>Chuck</item>
+        <item>The Voice (US)</item>
+        <item>Mad Men</item>
+        <item>Crisis</item>
+        <item>Last Man Standing (2011)</item>
+        <item>Celebrity Juice</item>
+        <item>Awkward.</item>
+        <item>Hell\'s Kitchen (US)</item>
+        <item>Star Trek: Deep Space Nine</item>
+        <item>Hell on Wheels</item>
+        <item>Brickleberry</item>
+        <item>Sherlock</item>
+        <item>Love/Hate</item>
+        <item>Frasier</item>
+        <item>Utopia</item>
+        <item>Devious Maids</item>
+        <item>Misfits</item>
+        <item>Sword Art Online</item>
+        <item>Lilyhammer</item>
+        <item>Gold Rush</item>
+        <item>MythBusters</item>
+        <item>Longmire</item>
+        <item>Defiance</item>
+        <item>Strike Back</item>
+        <item>Ancient Aliens</item>
+        <item>Mistresses (US)</item>
+        <item>Spartacus</item>
+        <item>Anthony Bourdain: Parts Unknown</item>
+        <item>The Bridge (2011)</item>
+        <item>Black Sails</item>
+        <item>Manhattan</item>
+        <item>Foo Fighters Sonic Highways</item>
+        <item>Adventure Time</item>
+        <item>NCIS: New Orleans</item>
+        <item>Archer (2009)</item>
+        <item>Hart of Dixie</item>
+        <item>Buffy the Vampire Slayer</item>
+        <item>Stargate Atlantis</item>
+        <item>Desperate Housewives</item>
+        <item>Veronica Mars</item>
+        <item>The Mindy Project</item>
+        <item>Psych</item>
+        <item>Babylon 5</item>
+        <item>The Following</item>
+        <item>Cheers</item>
+        <item>Farscape</item>
+        <item>Lie to me</item>
+        <item>Perception</item>
+        <item>The X-Files</item>
+        <item>Gravity Falls</item>
+        <item>Extant</item>
+        <item>Cosmos: A Spacetime Odyssey</item>
+        <item>The Last Ship</item>
+        <item>Futurama</item>
+        <item>How It\'s Made</item>
+        <item>Silicon Valley</item>
+        <item>ER</item>
+        <item>Firefly</item>
+        <item>Comedians in Cars Getting Coffee</item>
+        <item>Beauty and the Beast (2012)</item>
+        <item>The Shield</item>
+        <item>Gossip Girl</item>
+        <item>Boston Legal</item>
+        <item>Shark Tank</item>
+        <item>The Exes</item>
+        <item>Fullmetal Alchemist: Brotherhood</item>
+        <item>One Born Every Minute</item>
+        <item>Grand Designs</item>
+        <item>Ripper Street</item>
+        <item>Speed with Guy Martin</item>
+        <item>House of Lies</item>
+        <item>Almost Human</item>
+        <item>From Dusk Till Dawn: The Series</item>
+        <item>Reign (2013)</item>
+        <item>The Divide</item>
+        <item>My Little Pony: Friendship is Magic</item>
+        <item>Mord mit Aussicht</item>
+        <item>Nieuwe Buren</item>
+        <item>Private Practice</item>
+        <item>Hemlock Grove</item>
+        <item>CSI:NY</item>
+        <item>Legit</item>
+        <item>Borgia</item>
+        <item>Terminator: The Sarah Connor Chronicles</item>
+        <item>Luther</item>
+        <item>Star Trek: Voyager</item>
+        <item>Louie (2010)</item>
+        <item>Roommate</item>
+        <item>Anger Management</item>
+        <item>Hotel Hell</item>
+        <item>Ink Master</item>
+        <item>Série Noire</item>
+        <item>Hot in Cleveland</item>
+        <item>Rurouni Kenshin</item>
+        <item>CSI: Miami</item>
+        <item>The Universe</item>
+        <item>Black Books</item>
+        <item>Suburgatory</item>
+        <item>Six Feet Under</item>
+        <item>The Ellen DeGeneres Show</item>
+        <item>Entourage</item>
+        <item>XIII (2011)</item>
+        <item>Rectify</item>
+        <item>Kingdom (2014)</item>
+        <item>In The Flesh</item>
+        <item>Deadwood</item>
+        <item>Covert Affairs</item>
+        <item>Weeds</item>
+        <item>It\'s Always Sunny in Philadelphia</item>
+        <item>Outlander</item>
+        <item>Tosh.0</item>
+        <item>The Pretender</item>
+        <item>Alias</item>
+        <item>Switched at Birth</item>
+        <item>Star Trek: Enterprise</item>
+        <item>The Practice</item>
+        <item>Veep</item>
+        <item>Shirogane no Ishi Argevollen</item>
+        <item>America\'s Next Top Model</item>
+        <item>Fresh Meat</item>
+        <item>Jane the Virgin</item>
+        <item>Gomorrah</item>
+        <item>Saving Hope</item>
+        <item>Naruto Shippuden</item>
+        <item>The Colbert Report</item>
+        <item>Video Game High School</item>
+        <item>Workaholics</item>
+        <item>Still Standing</item>
+        <item>Kaze no Stigma</item>
+        <item>My Wife and Kids</item>
+        <item>Moomin (1990)</item>
+        <item>Motives and Murders</item>
+        <item>Twisted (2013)</item>
+        <item>The Amazing Race</item>
+        <item>Batman Beyond</item>
+        <item>Intelligence (2014)</item>
+        <item>Midsomer Murders</item>
+        <item>Treme</item>
+        <item>Major Crimes</item>
+        <item>Littlest Pet Shop (2012)</item>
+        <item>7th Heaven</item>
+        <item>Puella Magi Madoka Magica</item>
+        <item>Record of Lodoss War</item>
+        <item>Touch (2012)</item>
+        <item>Doctor Who</item>
+        <item>Being Human (US)</item>
+        <item>\'Allo \'Allo!</item>
+        <item>Dark Blue</item>
+        <item>Girls</item>
+        <item>Ice Pilots</item>
+        <item>Tales from the Darkside</item>
+        <item>Outrageous Fortune</item>
+        <item>Cutthroat Kitchen</item>
+        <item>Friday Night Lights</item>
+        <item>The Dog Whisperer</item>
+        <item>Boston Tea Party</item>
+        <item>Cracker</item>
+        <item>Black Dynamite</item>
+        <item>77 Sunset Strip</item>
+        <item>Bunheads</item>
+        <item>Dog with a Blog</item>
+        <item>How We Got to Now</item>
+        <item>Degrassi</item>
+        <item>Arrested Development</item>
+        <item>I Love Lucy</item>
+        <item>Legion of Super Heroes</item>
+        <item>The Tomorrow People (US)</item>
+        <item>Life Below Zero</item>
+        <item>Danny Phantom</item>
+        <item>Forensic Files</item>
+        <item>The Honourable Woman</item>
+        <item>Teen Titans Go!</item>
+        <item>The Venture Bros.</item>
+        <item>Jake 2.0</item>
+        <item>River Monsters</item>
+        <item>Sanctuary</item>
+        <item>Swamp Pawn</item>
+        <item>Transformers</item>
+        <item>Banshee</item>
+        <item>Alphas</item>
+        <item>Strawberry Shortcake</item>
+        <item>The Roosevelts: An Intimate History</item>
+        <item>Good Eats</item>
+        <item>Russell Howard\'s Good News</item>
+        <item>The Closer</item>
+        <item>True Tori</item>
+        <item>Red Band Society</item>
+        <item>Flikken</item>
+        <item>The IT Crowd</item>
+        <item>From the Earth to the Moon</item>
+        <item>Rules of Engagement</item>
+        <item>The Tick</item>
+        <item>Lost Girl</item>
+        <item>Life Story</item>
+        <item>Lekarze</item>
+        <item>The Only Way is Essex</item>
+        <item>Teen Wolf</item>
+        <item>Dragon Ball GT</item>
+        <item>Wicked Tuna</item>
+        <item>Brazil With Michael Palin</item>
+        <item>Afghanistan: The Lion\'s Last Roar?</item>
+        <item>Ridiculousness</item>
+        <item>Dexter\'s Laboratory</item>
+        <item>Broadchurch</item>
+        <item>Peep Show</item>
+        <item>Survivors</item>
+        <item>All in the Family</item>
+        <item>The Spectacular Spider-Man</item>
+        <item>Witches of East End</item>
+        <item>Spiral (2005)</item>
+        <item>Cristela</item>
+        <item>8 Simple Rules</item>
+        <item>The Real Ghostbusters</item>
+        <item>Kill la Kill</item>
+        <item>Robotech</item>
+        <item>Yo Gabba Gabba!</item>
+        <item>Ringer</item>
+        <item>Inspector Morse</item>
+        <item>Oz and James Drink to Britain</item>
+        <item>The Escape Artist</item>
+        <item>Human Universe</item>
+        <item>Remington Steele</item>
+        <item>Star Trek</item>
+        <item>Salem</item>
+        <item>Roseanne</item>
+        <item>The Pillars of the Earth</item>
+        <item>The Fresh Prince of Bel-Air</item>
+        <item>Steins;Gate</item>
+        <item>Extreme Makeover: Home Edition</item>
+        <item>Happy Endings</item>
+        <item>Not Going Out</item>
+        <item>Would I Lie to You?</item>
+        <item>Crossbones</item>
+        <item>Ben 10: Alien Force</item>
+        <item>George Clarke\'s Amazing Spaces</item>
+        <item>Hajime no Ippo</item>
+        <item>Time Shift</item>
+        <item>The Returned</item>
+        <item>Intruders</item>
+        <item>DuckTales</item>
+        <item>Cold Case</item>
+        <item>The Amazing World of Gumball</item>
+        <item>Salvage Hunters</item>
+        <item>Graceland</item>
+        <item>Match of the Day 2</item>
+        <item>The Village</item>
+        <item>Dybvaaaaad!</item>
+        <item>Seconds From Disaster</item>
+        <item>Power</item>
+        <item>Camelot</item>
+        <item>Attack on Titan</item>
+        <item>Eureka</item>
+        <item>The Musketeers</item>
+        <item>Baby Einstein</item>
+        <item>Guy\'s Grocery Games</item>
+        <item>Rick and Morty</item>
+        <item>Wizards of Waverly Place</item>
+        <item>Reno 911!</item>
+        <item>My Name Is Earl</item>
+        <item>Numb3rs</item>
+        <item>Mystery Science Theater 3000</item>
+        <item>Growing Up Fisher</item>
+        <item>Body of Proof</item>
+        <item>Mob City</item>
+        <item>Morganville: The series</item>
+        <item>Alpha House</item>
+        <item>Mama\'s Family</item>
+        <item>Rogue</item>
+        <item>Robot Chicken</item>
+        <item>The Big C</item>
+        <item>The Spies of Warsaw</item>
+        <item>Twin Peaks</item>
+        <item>Velvet</item>
+        <item>Dominion</item>
+        <item>Auf Achse</item>
+        <item>Sex and the City</item>
+        <item>Have I Got News for You</item>
+        <item>The Code (2014)</item>
+        <item>About a Boy</item>
+        <item>Transformers: Prime</item>
+        <item>Ghost Adventures</item>
+        <item>The Guardian</item>
+        <item>The Adventures of Figaro Pho</item>
+        <item>Masterchef (US)</item>
+        <item>The Tonight Show Starring Jimmy Fallon</item>
+        <item>Merlin (2008)</item>
+        <item>Cops</item>
+        <item>Top Chef (ES)</item>
+        <item>MasterChef Australia</item>
+        <item>Paw Patrol</item>
+        <item>The Unusuals</item>
+        <item>The Newsroom (2012)</item>
+        <item>The Great Fire</item>
+        <item>Botched</item>
+        <item>The Addams Family</item>
+        <item>The King of Queens</item>
+        <item>Knight Rider</item>
+        <item>The Amazing Race Australia</item>
+        <item>Bang Goes The Theory</item>
+        <item>The Cosby Show</item>
+        <item>Sailor Moon Crystal</item>
+        <item>Make it or Break it</item>
+        <item>Stacked</item>
+        <item>Homicide: Life On The Street</item>
+        <item>Homicide Hunter: Lt. Joe Kenda</item>
+        <item>Alaska: The Last Frontier</item>
+        <item>This Old House</item>
+        <item>The Great British Bake Off</item>
+        <item>Deadman Wonderland</item>
+        <item>Ancient Impossible</item>
+        <item>Survivorman</item>
+        <item>Smash (2012)</item>
+        <item>BBC Documentaries</item>
+        <item>The Late Late Show with Craig Ferguson</item>
+        <item>Care Bears: Adventures in Care-A-Lot</item>
+        <item>The Voice (UK)</item>
+        <item>World Series of Poker</item>
+        <item>Silent Witness</item>
+        <item>Heartland (2007) (CA)</item>
+        <item>The Fosters (1976)</item>
+        <item></item>
+        <item>Political Animals</item>
+        <item>Married &#8230; with Children</item>
+        <item>Catfish: The TV Show</item>
+        <item>Civilisation</item>
+        <item>Rookie Blue</item>
+        <item>Haikyuu!!</item>
+        <item>Death Note</item>
+        <item>Side om side</item>
+        <item>heute-show</item>
+        <item>Avatar: The Last Airbender</item>
+        <item>Leverage</item>
+        <item>Atlantis (2013)</item>
+        <item>Grantchester</item>
+        <item>Reaksiyon</item>
+        <item>Band of Brothers</item>
+        <item>Secret Garden</item>
+        <item>Parenthood (2010)</item>
+        <item>The Future Diary</item>
+        <item>The Cinema Snob</item>
+        <item>The Killing</item>
+        <item>The Fairly OddParents</item>
+        <item>The Borgias</item>
+        <item>The White Queen</item>
+        <item>Restaurant: Impossible</item>
+        <item>Quiz me Quick</item>
+        <item>Sharpe</item>
+        <item>Faking It (2014)</item>
+        <item>Upstairs Downstairs (2010)</item>
+        <item>Spellbinder</item>
+        <item>LEGO Legends of Chima</item>
+        <item>Peg + Cat</item>
+        <item>Alla är fotografer</item>
+        <item>Air Crash Investigation - Mayday</item>
+        <item>Hollands Hoop</item>
+        <item>Dollhouse</item>
+        <item>Happy Valley</item>
+        <item>The Bridge</item>
+        <item>Maria Lang</item>
+        <item>The Passing Bells</item>
+        <item>Goosebumps</item>
+        <item>Mr. Show</item>
+        <item>Malcolm in the Middle</item>
+        <item>The Melancholy of Haruhi-chan Suzumiya</item>
+        <item>Ground Floor</item>
+        <item>Zombieland</item>
+        <item>The Millers</item>
+        <item>Gugure! Kokkuri-san</item>
+        <item>Cougar Town</item>
+        <item>Klondike (2014)</item>
+        <item>Selfie</item>
+        <item>One outs</item>
+        <item>Penoza</item>
+        <item>Black-ish</item>
+        <item>Globe Trekker</item>
+        <item>Gang Related</item>
+        <item>Monkey Planet</item>
+        <item>Soap</item>
+        <item>Dragons\' Den</item>
+        <item>Line of Duty</item>
+        <item>Outrageous Acts of Science</item>
+        <item>The Daily Show with Jon Stewart</item>
+        <item>Big Brother (AU)</item>
+        <item>Peppa Pig</item>
+        <item>Death in Paradise</item>
+        <item>Real Time with Bill Maher</item>
+        <item>Gracepoint</item>
+        <item>Trinity Seven</item>
+        <item>How Do They Do It</item>
+        <item></item>
+        <item>Star-Crossed</item>
+        <item>Scooby-Doo, Where Are You!</item>
+        <item>Holby City</item>
+        <item>Ich heirate eine Familie</item>
+        <item>The Tomorrow People</item>
+        <item>Akame ga Kill!</item>
+        <item>The Mysteries of Laura</item>
+        <item>Yukon Men</item>
+        <item>Interny</item>
+        <item>The New Statesman</item>
+        <item>Project Runway</item>
+        <item>ESPN 30 for 30</item>
+        <item>Matador (2014)</item>
+        <item>Tatort</item>
+        <item>Alt for Norge</item>
+        <item>Mad About You</item>
+        <item>Nikita</item>
+        <item>House of Cards</item>
+        <item>You\'re the Worst</item>
+        <item>Dora the Explorer</item>
+        <item>Keeping Up with the Kardashians</item>
+        <item>The Story of Saiunkoku</item>
+        <item>Raising Hope</item>
+        <item>Rage of Bahamut: Genesis</item>
+        <item>Halt and Catch Fire</item>
+        <item>Dokter Tinus</item>
+        <item>Sofia the First</item>
+        <item>Helix</item>
+        <item>Burn Notice</item>
+        <item>Bubble Guppies</item>
+        <item>Tom and Jerry</item>
+        <item>Emily Owens, M.D.</item>
+        <item>666 Park Avenue</item>
+        <item>Tanked</item>
+        <item>Our Zoo</item>
+        <item>Royal Pains</item>
+        <item>Girlfriend BETA</item>
+        <item>Murder, She Wrote</item>
+        <item>Plebs</item>
+        <item>Ni Hao, Kai-Lan</item>
+        <item>Top Of The Lake</item>
+        <item>Are You Being Served?</item>
+        <item>Greek</item>
+        <item>El Barco</item>
+        <item>Looking</item>
+        <item>How to Make It in America</item>
+        <item>Wonderland</item>
+        <item>Space Ghost Coast to Coast</item>
+        <item>The After</item>
+        <item>Men in Trees</item>
+        <item>Kyle XY</item>
+        <item>Life (2009)</item>
+        <item>Code Geass: Lelouch of the Rebellion</item>
+        <item>The Gadget Show</item>
+        <item>Moonshiners</item>
+        <item>Mulaney</item>
+    </string-array>
+
+</resources>

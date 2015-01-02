@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Episode Countdown</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="searchview_hint">Search TV Shows</string>
+    <string name="search_list_first_aired">Premiered</string>
+    <string name="search_list_runtime">Runtime</string>
+    <string name="search_list_status">Status</string>
+    <string name="search_list_year">Year</string>
+    <string name="search_list_country">Country</string>
+    <string name="search_list_overview">Description</string>
+    
+    <string name="Async_error_title">Netwrok Error</string>
+    <string name="Async_error_message">Please check your internet connection and try again</string>
+    
+    <string name="search_list_detail_not_found_title">Error</string>
+    <string name="search_list_detail_not_found_message">No details found for this show</string>
+    
+    <string name="search_list_nothing_found_title">Title Not Found</string>
+    <string name="search_list_nothing_found_message">TV show not found. Try searching a different show</string>
+    
+    <string name="detail_show_countdown">Next Episode Airs in</string>
+    <string name="detail_show_started">Premiered</string>
+    <string name="detail_show_ended">Ended</string>
+    <string name="detail_show_origin_country">Country</string>
+    <string name="detail_show_genre">Genre</string>
+    <string name="detail_show_runtime">Runtime</string>
+    <string name="detail_show_network">Network</string>
+    <string name="detail_show_airtime">Air Time</string>
+    <string name="detail_show_airday">Air Day</string>
+    <string name="detail_show_local_airtime">Local Air Time</string>
+    <string name="detail_show_local_airday">Local Air Day</string>
+    <string name="detail_show_your_airtime">Your Air Time</string>
+    <string name="detail_show_your_airday">Your Air Day</string>
+    <string name="detail_show_previous_episode">Previously Aired Episode</string>
+    <string name="detail_show_next_episode">Next Episode</string>
+    
+    <string name="add_to_watchlist_button">Add To Watchlist</string>
+    <string name="remove_from_watchlist_button">Remove From Watchlist</string>
+    <string name="already_in_watchlist_button">Already In Watchlist</string>
+    
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Mins</string>
+    <string name="seconds">Secs</string>
+    
+    <string name="show_ended_string">This show has ended.</string>
+    <string name="show_tba_string">Next Episode TBA</string>
+    <string name="empty_watchlist">Your watchlist is currently empty. Search for shows you watch to add them to your wathclist.</string>
+    <string name="empty_trending">Swipe down to refresh trending shows</string>
+    <string name="adding_to_watchlist">This show will be added to your watchlist shortly</string>
+    <string name="already_in_watchlist">This show is already in your watchlist</string>
+    <string name="no_tvrageID_add_watchlist_error">No details are currently available for this show</string>
+    <string name="no_tvrageID_watchlist_button">No Details Available</string>
+    
+    <!-- Accesability -->
+    <string name="generic_accessability">Image</string>
+    
+    <string name="list_show_poster">Poster</string>
+    <string name="detail_show_banner">Banner</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="fragment_title_trending">Trending</string>
+    <string name="fragment_title_watchlist">Watchlist</string>
+    <string name="fragment_title_search">Search</string>
+    <string name="fragment_title_settings">Settings</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_watchlist_detail">WatchlistDetailActivity</string>
+    <string name="title_activity_trending_detail">Trending</string>
+    
+    <string name="last_trending_update_key">last_trending_update_key</string>
+    <string name="watchlist_show_id_key">watchlist_show_id_</string>
+    
+    <!-- Pref Overall Notification Strings -->
+    <string name="pref_most_popular_shows_key">most_popular_show_number</string>
+    <string name="pref_most_popular_shows_label">No. of Popular Shows</string>
+    <string name="pref_most_popular_shows_hint">Number of Popular Shows to Display</string>
+    <string name="pref_most_popular_shows_message">Enter a value from 1 to 500.</string>
+    <string name="pref_most_popular_shows_default">20</string>
+
+</resources>

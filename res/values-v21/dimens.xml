@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="gridview_horizontal_spacing">6dp</dimen>
+    <dimen name="gridview_vertical_spacing">6dp</dimen>
+    <dimen name="gridview_padding_left">4dp</dimen>
+    <dimen name="gridview_padding_right">4dp</dimen>
+    <dimen name="gridview_padding_bottom">0dp</dimen>
+    <dimen name="gridview_padding_top">4dp</dimen>
+    
+    <dimen name="trending_gridview_padding_left">2dp</dimen>
+    <dimen name="treding_gridview_padding_right">2dp</dimen>
+    
+</resources>

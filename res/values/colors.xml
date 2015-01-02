@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#FF5A5A</color>
+    <color name="light_blue">#ff64c2f4</color>
+    <color name="dark_blue">#ff509bc3</color>
+    <color name="dark_grey">#cccccc</color>
+    <color name="medium_grey">#eaeaea</color>
+    <color name="light_grey">#f0f0f0</color>
+    <color name="dark_green">#8CB266</color>
+
+    <!-- Color Palette -->
+    <color name="palette_blue">#33b5e5</color>
+    <color name="palette_purple">#aa66cc</color>
+    <color name="palette_green">#7aa300</color>
+    <color name="palette_orange">#ff8335</color>
+    <color name="palette_red">#ff4444</color>
+    
+    <color name="palette_green_translucent">#aa7aa300</color>
+    <color name="palette_red_translucent">#aaff4444</color>
+    <color name="palette_blue_translucent">#aa33b5e5</color>
+    <color name="palette_purple_translucent">#aaaa66cc</color>
+    <color name="palette_orange_translucent">#aaff8335</color>
+  
+</resources>

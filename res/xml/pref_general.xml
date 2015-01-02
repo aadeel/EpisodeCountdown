@@ -1,0 +1,12 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_most_popular_shows_default"
+        android:key="@string/pref_most_popular_shows_key"
+        android:summary="@string/pref_most_popular_shows_hint"
+        android:title="@string/pref_most_popular_shows_label" 
+        android:dialogMessage="@string/pref_most_popular_shows_message"
+        android:inputType="number"
+        />
+
+</PreferenceScreen>
