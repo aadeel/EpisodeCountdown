@@ -9,7 +9,6 @@ This code is for reference only.
 Wondering when your favorite TV show will air next? Episode Countdown lets you view the time remaining to your favorite TV show's next episode.
 
 <img src="https://raw.githubusercontent.com/aadeel/EpisodeCountdown/master/s3_screenshots.gif" width="320" height="568" />
-<img src="https://raw.githubusercontent.com/aadeel/EpisodeCountdown/master/tab2_screenshots.gif" width="320" height="568" />
 
 Features:
 - Manage Your Watchlist: Add your favorite TV shows to watchlist for easy tracking. 
