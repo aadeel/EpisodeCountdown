@@ -17,3 +17,6 @@ Features:
 - Works Offline: A TV Show Once added to your watchlist can be viewed offline. 
 - No sign-in: Just download and start using it. No sign in required.
 - No special Permissions Required: Only internet and data storage permissions required.
+
+The MIT License (MIT)
+Copyright (c) 2016 Adeel Ahmad
